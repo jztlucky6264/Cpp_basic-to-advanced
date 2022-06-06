@@ -1,6 +1,4 @@
 *.exe
-array
-binarysearch
-bits_problem
-mathsForDsa
+*.cpp
+
 Newarray
